@@ -9,7 +9,7 @@
 
 
 
-|[![Alex Elkin: Resume, CV](https://raw.githubusercontent.com/Zakamsky/Zakamsky.github.io/master/img/resume.jpg) "CV"](https://resume.elkin.dev/) | [![Alex Elkin: Portfolio](https://raw.githubusercontent.com/Zakamsky/Zakamsky.github.io/master/img/myportfolio.jpg) "Portfolio"](https://elkin.dev/portfolio.html) |
+|[![Alex Elkin: Resume, CV](https://raw.githubusercontent.com/Zakamsky/Zakamsky.github.io/master/img/resume.jpg "CV")](https://resume.elkin.dev/) | [![Alex Elkin: Portfolio](https://raw.githubusercontent.com/Zakamsky/Zakamsky.github.io/master/img/myportfolio.jpg "Portfolio")](https://elkin.dev/portfolio.html) |
 |---|---|
 | |
 
